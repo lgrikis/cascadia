@@ -136,11 +136,12 @@ h4 {
 }
 
 .navbar-custom {
-	font-family:'sinkin_sans700_bold';
+	font-family: sans-serif;
 	font-size:12px;
+    font-weight: bold
 	border-radius:0;
 	margin-bottom:0;
-	padding:50px 0;
+	padding: 0;
 }
 
 .navbar-brand {
@@ -154,7 +155,7 @@ h4 {
 }
 
 .top-nav-collapse {
-	padding: 20px 0;
+	padding: 0;
 }
 
 
@@ -454,7 +455,7 @@ h4 {
 .venue-address {
 	padding:15px;
 	margin:0 15px;
-	min-height:250px;
+	min-height:540px;
 	position:absolute;
 	bottom:0;
 }
